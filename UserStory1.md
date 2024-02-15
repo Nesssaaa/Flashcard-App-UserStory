@@ -16,6 +16,6 @@ So that I can test the app an see how it works
 
 ## Tasks
 
-[ ] Create a data-array in lib/data with 10 example word-pairs
-[ ] Create component Card to render the Flashcard
-[ ] Create default function HomePage  in “pages/ index.js“ that renders our Card component
+- [ ] Create a data-array in lib/data with 10 example word-pairs
+- [ ] Create component Card to render the Flashcard
+- [ ] Create default function HomePage  in “pages/ index.js“ that renders our Card component
