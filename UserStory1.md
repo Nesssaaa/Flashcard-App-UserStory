@@ -7,7 +7,7 @@ I want to see pairs of information in English and German
 So that I can test the app an see how it works
 
 ## Description
-![Image for User Story 1](img UserStory1.png)
+![Image for User Story 1](./imgUserStory1.png)
 ## Acceptance criteria
 
 - [ ] An example card is shown
