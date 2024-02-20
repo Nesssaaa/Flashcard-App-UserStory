@@ -11,11 +11,13 @@ So that I can test the app an see how it works
 ## Acceptance criteria
 
 - [ ] An example card is shown
-- [ ] Flashcard flips by clicking and translation appears
+- [ ] Translation appears on click
+- [ ] The cards are shown as a vertical list
 
 
 ## Tasks
 
 - [ ] Create a data-array in lib/data with 10 example word-pairs
+- [ ] Data-array contains: id, englisch-word, german-word
 - [ ] Create component Card to render the Flashcard
 - [ ] Create default function HomePage  in “pages/ index.js“ that renders our Card component
