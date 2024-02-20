@@ -14,7 +14,7 @@ So that I can learn my own subjects
 
 - [ ] user see the Navigation bar on the bottom with the Homepage-Link and the "new Cards"-Link on all pages
 - [ ] by clicking on navigation icon to create new card, you see a form and a button to submit
-- [ ] user can write your own pair of words an submit them, then a success-message appears
+- [ ] user can write your own pair of words an submit them
 
 
 
@@ -27,5 +27,4 @@ So that I can learn my own subjects
 - [ ] Create a NewCard Component wich returns a form and a submit-button
 - [ ] The NewCard Component is returned in pages/ index.js
 - [ ] The form-fields are required
-- [ ] after submitting the user receives an error or success-message with toastify. react-toastify must be installed
 - [ ] reset form with event.target.reset(), add focus with event.target.elements.question.focus()
