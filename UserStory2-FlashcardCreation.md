@@ -12,14 +12,20 @@ So that I can learn my own subjects
 
 ## Acceptance criteria
 
-- [ ] you see the Footer with the Homepage-Button and the "new Cards"-Button
-- [ ] you click on a button to create new cards
-- [ ] you can write your own pair of words an submit them
+- [ ] user see the Navigation bar on the bottom with the Homepage-Link and the "new Cards"-Link on all pages
+- [ ] by clicking on navigation icon to create new card, you see a form and a button to submit
+- [ ] user can write your own pair of words an submit them, then a success-message appears
 
 
 
 ## Tasks
 
-- [ ] Create
-- [ ]
-- [ ]
+- [ ] Create a new branch "FlashcardCreation"
+- [ ] Create a Navigation Component
+- [ ] Create a Layout Component with the prop "children", wich returns the Header and the Navigation Components. 
+- [ ] The Layout Component is returned in _app.js
+- [ ] Create a NewCard Component wich returns a form and a submit-button
+- [ ] The NewCard Component is returned in pages/ index.js
+- [ ] The form-fields are required
+- [ ] after submitting the user receives an error or success-message with toastify. react-toastify must be installed
+- [ ] reset form with event.target.reset(), add focus with event.target.elements.question.focus()
