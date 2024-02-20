@@ -24,4 +24,4 @@ So that I can test the app an see how it works
 - [ ] Create default function HomePage  in “pages/ index.js“ that renders our Card component
 - [ ] Create Header component
 - [ ] Render Header component in pages/ index.js
-- [ ] 
+      
