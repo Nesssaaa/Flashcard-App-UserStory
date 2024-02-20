@@ -8,7 +8,7 @@ So that I can learn my own subjects
 
 ## Description
 
-![Image for User Story 2](./imgUserStory2.png)
+![Image for User Story 2](./imgFlashCardCreation.png)
 
 ## Acceptance criteria
 
